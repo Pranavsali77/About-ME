@@ -76,4 +76,3 @@ I enjoy turning **complex backend logic into simple and intuitive user interface
 ---
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
