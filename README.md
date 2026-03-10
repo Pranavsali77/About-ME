@@ -2,7 +2,7 @@
 
 🔭 **Currently working on**
 
-- Building **full-stack web applications** using **Spring Boot, React, and modern JavaScript frameworks**, focusing on scalable backend APIs and responsive UI.
+- Building **Full-stack Java Developer** using **Spring Boot, React, and modern JavaScript frameworks**, focusing on scalable backend APIs and responsive UI.
 - Developing **real-world systems** that solve practical problems using modern web technologies.
 - Improving **UI/UX dashboards and performance optimization** for better user experience.
 
@@ -24,11 +24,13 @@ I enjoy turning **complex backend logic into simple and intuitive user interface
 
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-sali-356998272/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/pranav_77/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:pksali27@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav.sali77)
 
 ---
 
